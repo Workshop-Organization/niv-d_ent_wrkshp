@@ -32,7 +32,7 @@ type Order @key(fields: "id") {
   orderDate: String
   
   """total cost of the order"""
-  orderTotal: Float
+  total: Float
 }
 
 type User @key(fields: "id", resolvable: false) {
