@@ -48,7 +48,7 @@ limits:
   max_aliases: 3
 
 coprocessor:
-  url: https://coprocessir-wn3vwa6nlq-ue.a.run.app
+  url: https://coprocessor-wn3vwa6nlq-ue.a.run.app
   timeout: 2s
   router:
     response:
